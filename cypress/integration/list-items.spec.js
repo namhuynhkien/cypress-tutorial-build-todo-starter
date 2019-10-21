@@ -1,5 +1,3 @@
-/// <reference types="Cypress" />
-
 describe("List items", () => {
   beforeEach(() => {
     cy.seedAndVisit();
